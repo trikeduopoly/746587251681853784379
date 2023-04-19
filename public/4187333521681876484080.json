@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977641142958",
+    "project_id": "pinjol-ocean-craft",
+    "storage_bucket": "pinjol-ocean-craft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977641142958:android:4c7a36137e0807b4ee4b3f",
+        "android_client_info": {
+          "package_name": "com.PinjolLegalOJKBungaRendah.OceanCraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977641142958-l4k568gts6jjafj16leohlse1nh6876a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv_E_Ah4Pj5OibjUxit2aveoJwzDUTm0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977641142958-l4k568gts6jjafj16leohlse1nh6876a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
